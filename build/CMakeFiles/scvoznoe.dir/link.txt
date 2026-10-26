@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\scvoznoe.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\scvoznoe.dir/objects.a @CMakeFiles\scvoznoe.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\scvoznoe.dir/objects.a -Wl,--no-whole-archive -o scvoznoe.exe -Wl,--out-implib,libscvoznoe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\scvoznoe.dir\linkLibs.rsp
