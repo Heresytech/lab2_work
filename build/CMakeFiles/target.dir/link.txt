@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\target.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\target.dir/objects.a @CMakeFiles\target.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\target.dir/objects.a -Wl,--no-whole-archive -o target.exe -Wl,--out-implib,libtarget.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\target.dir\linkLibs.rsp

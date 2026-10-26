@@ -1,0 +1,3 @@
+D:/Windows/progamming_labs/lab_work2/build/CMakeFiles/target.dir
+D:/Windows/progamming_labs/lab_work2/build/CMakeFiles/edit_cache.dir
+D:/Windows/progamming_labs/lab_work2/build/CMakeFiles/rebuild_cache.dir
